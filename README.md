@@ -5,5 +5,3 @@
 * Estou criando esse repositório durante a aula de **Git e Github**!
  
 * Estou estudando com a equipe **Curso em Video**.
-
-* Estou criando esse repositório durante a aula de **Git e Github**!
